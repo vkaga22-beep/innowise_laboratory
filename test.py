@@ -1,0 +1,1 @@
+print ('Hello World', pow(2,int(input(' Enter:'))))
